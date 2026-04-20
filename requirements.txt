@@ -1,0 +1,11 @@
+transformers 
+datasets 
+sacrebleu 
+evaluate 
+peft 
+accelerate
+pandas
+tiktoken
+sentencepiece
+protobuf
+openpyxl

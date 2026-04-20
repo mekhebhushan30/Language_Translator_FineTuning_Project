@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+mt5_model/
+gpt2_lora/
